@@ -16,7 +16,7 @@ My name is Pablo Giaccaglia, I'm a Computer Science and Engineering - Artificial
 
  - **elkVaccinationAnalysis**: database for vaccination campaign analysis(**Python & ElasticSearch & Kibana**) [[repo]](https://github.com/pablogiaccaglia/elk-vaccination-analysis)
  
- - **CovidCertificateDB**: database to support managing & validation of EU Digital COVID-like certificates (**Python & MongoDB**)[[repo]](https://github.com/pablogiaccaglia/mongodb-covid-certificates)
+ - **CovidCertDB**: database to support managing & validation of EU Digital COVID-like certificates (**Python & MongoDB**)[[repo]](https://github.com/pablogiaccaglia/mongodb-covid-certificates)
  
  - **yt2Mp3**: a minimal telegram bot to download youtube mp3 (**Python**) [[repo]](https://github.com/pablogiaccaglia/yt-mp3-telegram-bot)
 
