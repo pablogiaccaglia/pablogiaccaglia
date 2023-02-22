@@ -16,7 +16,7 @@ My name is Pablo Giaccaglia, I'm a Computer Science and Engineering - Artificial
 
  - **elkVaccinationAnalysis**: database for vaccination campaign analysis(**Python & ElasticSearch & Kibana**) [[repo]](https://github.com/pablogiaccaglia/elk-vaccination-analysis)
  
- - **CovidCertificateDB**: database to support managing and validation of EU Digital COVID - like certificates (**Python & MongoDB**)[[repo]](https://github.com/pablogiaccaglia/mongodb-covid-certificates)
+ - **CovidCertificateDB**: database to support managing & validation of EU Digital COVID-like certificates (**Python & MongoDB**)[[repo]](https://github.com/pablogiaccaglia/mongodb-covid-certificates)
  
  - **yt2Mp3**: a minimal telegram bot to download youtube mp3 (**Python**) [[repo]](https://github.com/pablogiaccaglia/yt-mp3-telegram-bot)
 
@@ -32,7 +32,7 @@ My name is Pablo Giaccaglia, I'm a Computer Science and Engineering - Artificial
  
  - **GPU PageRank**: High Performance Top-K Personalized PageRank on GPU (**C++ & CUDA**)[[repo]](https://github.com/pablogiaccaglia/Top-K-Personalized-Pagerank-GPU)
  
- - **Hist-equalization**: described in VHDL a circuit to perform a simplified equalization algorithm to a scaled gray image (**VHDL**) [[repo]](https://github.com/pablogiaccaglia/Project-Reti-Logiche-2021)
+ - **Hist-equalization**: described in VHDL a circuit to perform an equalization algorithm to a scaled gray image (**VHDL**) [[repo]](https://github.com/pablogiaccaglia/Project-Reti-Logiche-2021)
  
 - Full Stack projects (by backend stack)
   -  **Java EE & MySQL** [[repo]](https://github.com/pablogiaccaglia/Web-App-Project-TIW-2021-Galetti-Giaccaglia)
