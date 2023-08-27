@@ -5,6 +5,8 @@ My name is Pablo Giaccaglia, I'm a Computer Science and Engineering - Artificial
 
 ### Some Projects
  - **Social Influence & Advertising project**: Online Learning framework for advertising using Multi-Armed Bandits (**Python**) [[repo]](https://github.com/pablogiaccaglia/Online-learning-applications-project-2022)
+
+ - **NLP Question Answering Models**: NLP models for Question-answering using Attention mechanism (**Python**) [[repo]](https://github.com/NLP-course-project-2023/BiDAF)
  
  - **CNN Plants Classification**: Convolutional neural network for plants classification (**Python**) [[repo]](https://github.com/pablogiaccaglia/an2dl-image-classification)
  
